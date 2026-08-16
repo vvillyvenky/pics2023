@@ -1,0 +1,29 @@
+{
+  "title": "20230726_220200.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702837121",
+    "formatted": "17 Dec 2023, 18:18:41 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1690389120",
+    "formatted": "26 Jul 2023, 16:32:00 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM-FbjwToD91zamkQ4Xk0RIZD38A7JKwM33DFg4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

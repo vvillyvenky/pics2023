@@ -1,0 +1,32 @@
+{
+  "title": "20230711_175530.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1702837069",
+    "formatted": "17 Dec 2023, 18:17:49 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1689078330",
+    "formatted": "11 Jul 2023, 12:25:30 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMzJua0zkGwYUmcFNa2JVJmPJjdMONeLUlLYn8z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
