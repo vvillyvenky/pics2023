@@ -1,0 +1,29 @@
+{
+  "title": "20230528_124948.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702836037",
+    "formatted": "17 Dec 2023, 18:00:37 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1685258387",
+    "formatted": "28 May 2023, 07:19:47 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPIgnL4yXXf8gJXyxO3j1YijttU6xoQY7JoX3xj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
