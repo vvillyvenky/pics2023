@@ -1,0 +1,32 @@
+{
+  "title": "20231105_100432.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702884219",
+    "formatted": "18 Dec 2023, 07:23:39 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1699158872",
+    "formatted": "5 Nov 2023, 04:34:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipMkAdzlNJ0QtghFsPXOkN9c_kYWJ5K3Gobqrthx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
