@@ -1,0 +1,29 @@
+{
+  "title": "20230620_171018.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702836268",
+    "formatted": "17 Dec 2023, 18:04:28 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1687261218",
+    "formatted": "20 Jun 2023, 11:40:18 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM27J3-BZKUIeIYj8KR2i2IiR76C7fcYrKK-288",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
