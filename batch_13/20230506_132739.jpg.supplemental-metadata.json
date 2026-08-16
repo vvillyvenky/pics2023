@@ -1,0 +1,29 @@
+{
+  "title": "20230506_132739.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1683380771",
+    "formatted": "May 6, 2023, 1:46:11 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1683359859",
+    "formatted": "May 6, 2023, 7:57:39 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMu9MwgLAzNmkRGE90fC2LnPyVQ7kRM8KQXmdDi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

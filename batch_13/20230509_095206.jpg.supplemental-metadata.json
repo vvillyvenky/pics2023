@@ -1,0 +1,29 @@
+{
+  "title": "20230509_095206.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1683645752",
+    "formatted": "May 9, 2023, 3:22:32 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1683606126",
+    "formatted": "May 9, 2023, 4:22:06 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNViXk0UQk8bW1jie95FBgyzLP2i22OP1bamlVY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

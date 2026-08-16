@@ -1,0 +1,29 @@
+{
+  "title": "20230430_173138.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702835773",
+    "formatted": "17 Dec 2023, 17:56:13 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1682856098",
+    "formatted": "30 Apr 2023, 12:01:38 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOCf-m_kqavzLh0fow0GCuElxvDJrPzCK42qbcG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
