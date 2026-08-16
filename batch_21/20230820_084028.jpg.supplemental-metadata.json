@@ -1,0 +1,29 @@
+{
+  "title": "20230820_084028.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702837273",
+    "formatted": "17 Dec 2023, 18:21:13 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1692501028",
+    "formatted": "20 Aug 2023, 03:10:28 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNKZvVlO3GG9I9iqbzU-_uC5uKBfdzlFFGKuvt2",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

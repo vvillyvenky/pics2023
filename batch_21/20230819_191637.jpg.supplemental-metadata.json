@@ -1,0 +1,29 @@
+{
+  "title": "20230819_191637.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702884924",
+    "formatted": "18 Dec 2023, 07:35:24 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1692452803",
+    "formatted": "19 Aug 2023, 13:46:43 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNmdyxgQiGfCJivyqUGuu03Ck-FsmQ7yW4pE6uf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
