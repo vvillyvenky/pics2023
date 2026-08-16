@@ -1,0 +1,29 @@
+{
+  "title": "20230611_100255.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702836119",
+    "formatted": "17 Dec 2023, 18:01:59 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1686457975",
+    "formatted": "11 Jun 2023, 04:32:55 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPpwsAYFdRPCamKtrseU4YOnl8Uv4iJisDa2r4k",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
