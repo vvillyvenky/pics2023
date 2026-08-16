@@ -1,0 +1,29 @@
+{
+  "title": "20231007_145514.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702837440",
+    "formatted": "17 Dec 2023, 18:24:00 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1696670714",
+    "formatted": "7 Oct 2023, 09:25:14 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOb_E42eLVpPdRH3vsrEhgk8OvR5q1nzjEnmiB8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
