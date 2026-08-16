@@ -1,0 +1,29 @@
+{
+  "title": "20230325_143327.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1679769019",
+    "formatted": "Mar 25, 2023, 6:30:19 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1679735011",
+    "formatted": "Mar 25, 2023, 9:03:31 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOBV_9INoJQkKZxxN8e5Yyak6E0ebZa6vF7akVp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

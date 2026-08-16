@@ -1,0 +1,29 @@
+{
+  "title": "20230319_190613.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702834952",
+    "formatted": "17 Dec 2023, 17:42:32 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1679232973",
+    "formatted": "19 Mar 2023, 13:36:13 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPfLaUKLVAZJ7mCCMp9-QQ8Nbj7BnOlDQY5sjf0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

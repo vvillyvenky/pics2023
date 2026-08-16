@@ -1,0 +1,32 @@
+{
+  "title": "20230324_090310.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1702834964",
+    "formatted": "17 Dec 2023, 17:42:44 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1679628790",
+    "formatted": "24 Mar 2023, 03:33:10 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipO3IcG7dwPaEpEXhRTmhbFAgGdyOUuIxYhc7vjw",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

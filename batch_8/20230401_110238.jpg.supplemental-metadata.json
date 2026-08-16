@@ -1,0 +1,29 @@
+{
+  "title": "20230401_110238.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1702834975",
+    "formatted": "17 Dec 2023, 17:42:55 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1680327158",
+    "formatted": "1 Apr 2023, 05:32:38 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMftDKm58jq0V1B2NgAjPTUC0OExCbK_o-SqVkp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
