@@ -1,0 +1,29 @@
+{
+  "title": "20230307_201633.jpg",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1702834930",
+    "formatted": "17 Dec 2023, 17:42:10 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678200393",
+    "formatted": "7 Mar 2023, 14:46:33 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOmVcE9eDLNWdjIjyZPcaSHyTHw4x1QazHXMb69",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
