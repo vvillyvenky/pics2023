@@ -1,0 +1,32 @@
+{
+  "title": "20230413_130912.mp4",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1702979360",
+    "formatted": "19 Dec 2023, 09:49:20 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1681371572",
+    "formatted": "13 Apr 2023, 07:39:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipP8z362Rr9KM1hHrh4guI1X25499t8_0ntBEa1m",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
