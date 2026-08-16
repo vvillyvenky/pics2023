@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230127_194822_GPay.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1702834747",
+    "formatted": "17 Dec 2023, 17:39:07 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1674829102",
+    "formatted": "27 Jan 2023, 14:18:22 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOoMsZU17hl5xWXeB-pp0mpUpy9whGUIULP_ML0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

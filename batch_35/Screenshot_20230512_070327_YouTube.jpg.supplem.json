@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230512_070327_YouTube.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1702835835",
+    "formatted": "17 Dec 2023, 17:57:15 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1683855207",
+    "formatted": "12 May 2023, 01:33:27 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNK-Ghupib3cUSbK-0y8EV3_Hu2lJV_T00YzUp9",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

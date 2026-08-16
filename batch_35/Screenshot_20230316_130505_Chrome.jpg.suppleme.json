@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230316_130505_Chrome.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702834944",
+    "formatted": "17 Dec 2023, 17:42:24 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1678952105",
+    "formatted": "16 Mar 2023, 07:35:05 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM8ViwdnuO9IVKOD_1l4KZquOEwbv2LYeeZC_N_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
