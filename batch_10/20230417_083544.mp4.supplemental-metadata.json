@@ -1,0 +1,32 @@
+{
+  "title": "20230417_083544.mp4",
+  "description": "",
+  "imageViews": "5",
+  "creationTime": {
+    "timestamp": "1702980625",
+    "formatted": "19 Dec 2023, 10:10:25 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1681700771",
+    "formatted": "17 Apr 2023, 03:06:11 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipOZa_EwlePXp-pUXkU6OIU33VCv-uowTxabKKga",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
