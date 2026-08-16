@@ -1,0 +1,29 @@
+{
+  "title": "20231017_181215.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702838561",
+    "formatted": "17 Dec 2023, 18:42:41 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1697546535",
+    "formatted": "17 Oct 2023, 12:42:15 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMtprzfkxCeZWa2NDbVGmpsxvqWq6qqEdCVZa14",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
