@@ -1,0 +1,32 @@
+{
+  "title": "20231221_171415.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1703162687",
+    "formatted": "21 Dec 2023, 12:44:47 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703159056",
+    "formatted": "21 Dec 2023, 11:44:16 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipNqR8FQQWCw177JXuXJqr9q6KNfWIG6bJVSDPVI",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
