@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20231005_200414_Gmail.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702837404",
+    "formatted": "17 Dec 2023, 18:23:24 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1696516454",
+    "formatted": "5 Oct 2023, 14:34:14 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOuFsao66Q4SydGo4Vbm2I2oXP47YNZHCZIpXyR",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

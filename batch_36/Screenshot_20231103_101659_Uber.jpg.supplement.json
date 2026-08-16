@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20231103_101659_Uber.jpg",
+  "description": "",
+  "imageViews": "4",
+  "creationTime": {
+    "timestamp": "1702884214",
+    "formatted": "18 Dec 2023, 07:23:34 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1698986819",
+    "formatted": "3 Nov 2023, 04:46:59 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMUjY7YkEb33uubRHjtl2pqutqW_H-2EaFeHYk_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

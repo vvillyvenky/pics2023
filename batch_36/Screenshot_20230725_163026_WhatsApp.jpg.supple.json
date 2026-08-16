@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230725_163026_WhatsApp.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702837109",
+    "formatted": "17 Dec 2023, 18:18:29 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1690282826",
+    "formatted": "25 Jul 2023, 11:00:26 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMsRcWgqAzjN26VwsTlEu2GpKjgVI4Zf-7LYvZJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

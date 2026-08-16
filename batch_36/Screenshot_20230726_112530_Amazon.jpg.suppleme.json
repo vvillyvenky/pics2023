@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230726_112530_Amazon.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1702837113",
+    "formatted": "17 Dec 2023, 18:18:33 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1690350930",
+    "formatted": "26 Jul 2023, 05:55:30 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOQ-FrjWPsUlrES_a67GASQRIlHXTGrHt79dWM1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
