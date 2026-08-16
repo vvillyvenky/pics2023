@@ -1,0 +1,26 @@
+{
+  "title": "IMG-20230912-WA0002.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1694493162",
+    "formatted": "Sep 12, 2023, 4:32:42 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1694493159",
+    "formatted": "Sep 12, 2023, 4:32:39 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNWgZGFW7Tm5VMG51lTUquH29INd5PIEb5tZdhM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

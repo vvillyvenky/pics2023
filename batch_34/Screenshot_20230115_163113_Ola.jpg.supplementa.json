@@ -1,0 +1,29 @@
+{
+  "title": "Screenshot_20230115_163113_Ola.jpg",
+  "description": "",
+  "imageViews": "2",
+  "creationTime": {
+    "timestamp": "1702834003",
+    "formatted": "17 Dec 2023, 17:26:43 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1673780473",
+    "formatted": "15 Jan 2023, 11:01:13 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMo8CriZbEeSjDzBZjBCHwAAPg04KlSG4GVc1Sb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

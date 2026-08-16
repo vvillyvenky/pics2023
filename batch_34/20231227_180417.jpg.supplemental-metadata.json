@@ -1,0 +1,29 @@
+{
+  "title": "20231227_180417.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1704040025",
+    "formatted": "31 Dec 2023, 16:27:05 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1703680457",
+    "formatted": "27 Dec 2023, 12:34:17 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPOzibbZAPcZyUcW_tDe05rqZFdXT3ibtMouO5R",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
