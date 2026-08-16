@@ -1,0 +1,29 @@
+{
+  "title": "20230111_160901.mp4",
+  "description": "",
+  "imageViews": "3",
+  "creationTime": {
+    "timestamp": "1702927177",
+    "formatted": "18 Dec 2023, 19:19:37 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1673433579",
+    "formatted": "11 Jan 2023, 10:39:39 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM1w1toHNp8HVQjIodeN_ml5YO1DH5VI0snv29g",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

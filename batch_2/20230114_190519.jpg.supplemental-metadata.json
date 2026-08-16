@@ -1,0 +1,29 @@
+{
+  "title": "20230114_190519.jpg",
+  "description": "",
+  "imageViews": "1",
+  "creationTime": {
+    "timestamp": "1702833983",
+    "formatted": "17 Dec 2023, 17:26:23 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1673703319",
+    "formatted": "14 Jan 2023, 13:35:19 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO-wZse_SN3CHoLWzMC1NNAPyQvLXnM5Ms6ecT_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
