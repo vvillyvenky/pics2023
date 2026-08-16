@@ -1,0 +1,29 @@
+{
+  "title": "20230701_151347.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702836420",
+    "formatted": "17 Dec 2023, 18:07:00 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1688204627",
+    "formatted": "1 Jul 2023, 09:43:47 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPKrvTn38xmBKPWPLY5zg1I6v4LjEP-gqOCBJhx",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

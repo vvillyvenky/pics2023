@@ -1,0 +1,29 @@
+{
+  "title": "20230624_174737.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702836351",
+    "formatted": "17 Dec 2023, 18:05:51 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1687609057",
+    "formatted": "24 Jun 2023, 12:17:37 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO_4nO7PmXFCGz1DWELwCHrhjOa9OqAtIMSt5p3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
