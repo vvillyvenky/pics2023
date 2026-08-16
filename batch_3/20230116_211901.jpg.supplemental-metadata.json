@@ -1,0 +1,32 @@
+{
+  "title": "20230116_211901.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702834024",
+    "formatted": "17 Dec 2023, 17:27:04 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1673884141",
+    "formatted": "16 Jan 2023, 15:49:01 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ramshyama"
+  }],
+  "url": "https://photos.google.com/photo/AF1QipPw4ReUgLgIPrf05tu_f6nL8s2nn_iIwzPX2VBJ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
