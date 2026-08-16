@@ -1,0 +1,29 @@
+{
+  "title": "20230211_111818.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702834859",
+    "formatted": "17 Dec 2023, 17:40:59 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1676094498",
+    "formatted": "11 Feb 2023, 05:48:18 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPBqiiVOB92rPr8tH2w5qUmACC3ed3h4tFwlAfT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
