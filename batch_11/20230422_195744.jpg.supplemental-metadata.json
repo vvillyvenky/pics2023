@@ -1,0 +1,29 @@
+{
+  "title": "20230422_195744.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1702835705",
+    "formatted": "17 Dec 2023, 17:55:05 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1682173664",
+    "formatted": "22 Apr 2023, 14:27:44 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOLcIZB4YrU05ED6CyR4YO7M21_44z3umN8YTVn",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
