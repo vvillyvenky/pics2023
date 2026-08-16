@@ -1,0 +1,29 @@
+{
+  "title": "20230917_170600.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1695707647",
+    "formatted": "Sep 26, 2023, 5:54:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1694950560",
+    "formatted": "Sep 17, 2023, 11:36:00 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNrJ9H9glBCdR7l0f2SP40Xxx5ou1Mx96k65dwE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

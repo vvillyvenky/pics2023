@@ -1,0 +1,29 @@
+{
+  "title": "20230926_083020.mp4",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1695707702",
+    "formatted": "Sep 26, 2023, 5:55:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1695697257",
+    "formatted": "Sep 26, 2023, 3:00:57 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNoUaEBRPAh6KWZoYdmN1anFKD0hOUTKlUwDH5g",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

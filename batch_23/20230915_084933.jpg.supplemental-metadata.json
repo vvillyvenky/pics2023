@@ -1,0 +1,29 @@
+{
+  "title": "20230915_084933.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1694755686",
+    "formatted": "Sep 15, 2023, 5:28:06 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1694747973",
+    "formatted": "Sep 15, 2023, 3:19:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNM4KLix6L5MHoH4mKyXJi_7ozAccL7Nt_Qsn4o",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

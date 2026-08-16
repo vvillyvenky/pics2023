@@ -1,0 +1,29 @@
+{
+  "title": "20230929_185850.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1695998548",
+    "formatted": "Sep 29, 2023, 2:42:28 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1695994129",
+    "formatted": "Sep 29, 2023, 1:28:49 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPiLxl6rNi_hbWXkEWe4H8y6JcjCboqqx8LU8lY",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
